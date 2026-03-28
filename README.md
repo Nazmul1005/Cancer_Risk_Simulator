@@ -35,7 +35,7 @@
 
 ---
 
-## 🌟 Overview
+### 🌟 Overview
 
 The **Cancer Risk Simulator** is a full-stack machine learning application that provides real-time cancer risk predictions based on 8 key health factors. Built with a modern tech stack, it combines a powerful XGBoost model (trained on 1,500 real patient records) with an intuitive React interface featuring live visualizations and instant feedback.
 
