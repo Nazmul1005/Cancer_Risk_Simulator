@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🩺 Cancer Risk Simulator
+## 🩺 Cancer Risk Simulator
 
 ### AI-Powered Cancer Risk Prediction with Real-Time ML Analysis
 
